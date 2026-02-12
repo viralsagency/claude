@@ -20,10 +20,12 @@ export function ScanScreen({ navigation }: any) {
     status,
     lastMeasurement,
     error,
+    demoMode,
     startScan,
     stopScan,
     connect,
     disconnect,
+    switchToDemo,
   } = useBle();
 
   const isScanning = status === 'scanning';
@@ -69,6 +71,22 @@ export function ScanScreen({ navigation }: any) {
         <Text style={styles.title}>Scansione BLE</Text>
         <StatusBadge status={status} />
       </View>
+
+      {demoMode && (
+        <View style={styles.demoBanner}>
+          <Text style={styles.demoBannerText}>
+            MODALITA' DEMO - Dati simulati
+          </Text>
+        </View>
+      )}
+
+      {!demoMode && status === 'disconnected' && devices.length === 0 && (
+        <TouchableOpacity style={styles.demoButton} onPress={switchToDemo}>
+          <Text style={styles.demoButtonText}>
+            Nessuna bilancia? Prova la modalita' demo
+          </Text>
+        </TouchableOpacity>
+      )}
 
       {error && (
         <View style={styles.errorBanner}>
@@ -279,5 +297,33 @@ const styles = StyleSheet.create({
     color: colors.textLight,
     textAlign: 'center',
     lineHeight: 24,
+  },
+  demoBanner: {
+    backgroundColor: '#FFF3CD',
+    marginHorizontal: spacing.lg,
+    padding: spacing.sm,
+    borderRadius: borderRadius.sm,
+    marginBottom: spacing.md,
+    alignItems: 'center',
+  },
+  demoBannerText: {
+    color: '#856404',
+    fontSize: fontSize.xs,
+    fontWeight: '700',
+    letterSpacing: 0.5,
+  },
+  demoButton: {
+    marginHorizontal: spacing.lg,
+    padding: spacing.md,
+    borderRadius: borderRadius.sm,
+    borderWidth: 1,
+    borderColor: colors.border,
+    borderStyle: 'dashed',
+    alignItems: 'center',
+    marginBottom: spacing.md,
+  },
+  demoButtonText: {
+    color: colors.textSecondary,
+    fontSize: fontSize.sm,
   },
 });

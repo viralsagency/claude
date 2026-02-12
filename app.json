@@ -37,7 +37,8 @@
           "isBackgroundEnabled": false,
           "modes": ["central"]
         }
-      ]
+      ],
+      "expo-dev-client"
     ]
   }
 }

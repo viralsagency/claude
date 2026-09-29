@@ -87,7 +87,9 @@ Ci vediamo in studio. `[se fai anche visite online: "Ci vediamo alla visita."]`
 
 ### CTA — VARIANTE B (lead: risorsa gratuita → visita)
 
-Quindi, se in questo video ti sei riconosciuto, ho preparato una cosa per te: un test di due minuti `[oppure: una guida gratuita]` per capire se sei un candidato ai farmaci anti-obesità, al palloncino o alla terapia combinata. Lo trovi nel link in descrizione. Compilalo — e se ci sono i requisiti, il mio team ti ricontatta per una prima visita.
+Quindi, se in questo video ti sei riconosciuto, ho preparato una guida gratuita che spiega, con le fonti, come funzionano i farmaci anti-obesità, il palloncino e la terapia combinata — e per chi sono indicati e per chi no. La trovi nel link in descrizione. Leggila con calma. E se poi vuoi una valutazione sulla tua situazione, nello stesso link puoi prenotare una prima visita.
+
+`[Compliance: ho tolto il "test per capire se sei candidato". Un quiz che indirizza verso un trattamento è zona grigia rispetto al divieto di elementi "suggestivi" (L. 145/2018, art. 1 c. 525). Una guida informativa è contenuto ammesso. La guida può essere gratis perché è informazione, non una prestazione: mai "prima visita gratuita".]`
 
 `[poi la stessa chiusura emotiva della variante A: "La tua non è mai stata pigrizia..."]`
 
@@ -99,3 +101,4 @@ Quindi, se in questo video ti sei riconosciuto, ho preparato una cosa per te: un
 - **CTA silenziosa a metà video** (solo grafica, ~1 riga, senza interrompere il parlato) all'inizio del Blocco 1: recupera chi esce prima della fine. Da valutare: su un video "da medico" può stonare.
 - **Se devi tagliare 60–90 secondi**: togli il blocco opzionale SURMOUNT-4 e, nel prezzo, fondi il secondo conto (corpo) in due frasi. Non tagliare il Blocco 2: è dove si chiude il gancio del titolo.
 - **Nessun nome commerciale** di farmaco in tutto il video (già così nella parte registrata: tienilo).
+- **Vincoli di legge sulla CTA** (L. 145/2018, art. 1 c. 525 + Linee guida FNOMCeO artt. 55-57). Ammesso dire *cosa* fai, *dove*, *come si prenota* e quanto costa. Vietato: sconti, promozioni, "prima visita gratuita", "senza impegno"; urgenza artificiale ("posti limitati", "solo questa settimana"); promesse di risultato o cifre di chili; foto prima/dopo; testimonianze di pazienti; comparazioni ("il migliore", "l'unico"); una CTA che colleghi la visita all'ottenere il farmaco ("prenota per avere la penna"). La variante A è scritta dentro questi limiti. Prima di pubblicare, chiedere un parere preventivo al proprio OMCeO provinciale costa zero e chiude la questione.

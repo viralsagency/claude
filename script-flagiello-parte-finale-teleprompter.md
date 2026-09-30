@@ -2,19 +2,19 @@
 
 ## PONTE — ultima frase da ri-registrare (sostituisce la chiusura del punto 9)
 
-Ma attenzione. Il farmaco, da solo, non risolve il problema. È uno strumento potentissimo, ma solo se accanto a te c'è un medico che ti segue in un percorso. Perché se lo fai per conto tuo, rischi tre cose. Uno: più effetti collaterali. Due: riprendere tutti i chili. Tre, e questa è quella che nessuno ti dice: perdere muscolo. E partiamo proprio da qui.
+Ma attenzione. Il farmaco, da solo, non risolve il problema. È uno strumento potentissimo, ma solo se accanto a te c'è un medico che ti segue in un percorso.
+
+Perché se lo fai per conto tuo, rischi tre cose. Uno: più effetti collaterali. Due: riprendere tutti i chili che hai perso. E tre: perdere muscolo. Non poco: negli studi, fino al 40 per cento del peso che perdi.
 
 ---
 
 ## MUSCOLO
 
-Quando dimagrisci in fretta, non perdi solo grasso. Perdi anche muscolo. E non poco: negli studi, tra il 25 e il 40 per cento del peso che perdi è muscolo. Cioè, se perdi 20 chili, fino a 8 possono essere muscolo.
+E il muscolo è il motore del tuo metabolismo. È quello che ti fa bruciare calorie anche quando non fai niente, anche mentre dormi. Se perdi muscolo, il motore rallenta. E con il motore lento, riprendere i chili diventa facilissimo.
 
-E perché è un problema? Perché il muscolo è il motore del tuo metabolismo. È quello che ti fa bruciare calorie anche quando stai fermo, anche mentre dormi. Se perdi muscolo, il motore rallenta. E con il motore lento, riprendere i chili diventa facilissimo.
+Io lo vedo ogni settimana. Arrivano da me persone che hanno perso 15, 20 chili con il farmaco, ma senza essere seguite come si deve. All'inizio vedono il peso scendere sulla bilancia, e sembra una vittoria. Poi passano pochi mesi e riprendono tutto. Perché il loro motore non brucia più come prima.
 
-Io lo vedo ogni settimana nel mio studio. Persone che hanno perso 15, 20 chili da sole, con la penna. Sulla bilancia sembra una vittoria. Ma salgono una rampa di scale e sono senza fiato. Hanno perso i chili, e hanno perso la forza. E da lì, il dente di sega riparte.
-
-Si può evitare? Sì. Ma servono tre cose. Le proteine giuste, ogni giorno. Un po' di allenamento di forza. E qualcuno che, a ogni controllo, misuri cosa stai perdendo davvero: grasso o muscolo. La penna comprata online questo non lo fa. Un percorso medico sì.
+Si può evitare? Assolutamente sì. Ma il farmaco va preso dentro un percorso medico controllato. Che vuol dire: le proteine giuste, un po' di allenamento di forza, e qualcuno che a ogni controllo misura cosa stai perdendo davvero, grasso o muscolo. La penna comprata online questo non lo fa.
 
 ## LA RISPOSTA
 

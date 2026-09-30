@@ -18,7 +18,7 @@ Io lo vedo ogni settimana. Arrivano da me persone che hanno perso 15, 20 chili c
 
 Si può proteggere il muscolo? Sì. Ma il farmaco va preso dentro un percorso medico controllato. Che vuol dire: le proteine giuste, un po' di allenamento di forza, e qualcuno che a ogni controllo misura cosa stai perdendo davvero, grasso o muscolo. La penna comprata online questo non lo fa.
 
-Ti faccio un esempio. Monica, una mia paziente, è arrivata da me che prendeva già la tirzepatide, a 12,5 milligrammi, che è una dose alta. Risultato: 7 chili persi, e stava male per gli effetti collaterali. Abbiamo costruito un percorso su misura per lei, e la dose l'abbiamo abbassata a 5 milligrammi: meno della metà. Con 5 milligrammi ha perso altri 15 chili. Senza più effetti collaterali.
+Ti faccio un esempio. Monica, una mia paziente, è arrivata da me che assumeva già il Mounjaro a 12,5 milligrammi. Una dose altissima, soprattutto se è la prima che ti danno. Risultato: 7 chili persi, e stava male per gli effetti collaterali. Abbiamo costruito un percorso su misura per lei, e la dose l'abbiamo abbassata a 5 milligrammi: meno della metà. Con 5 milligrammi ha perso altri 15 chili. Senza più effetti collaterali.
 
 Non tutti i casi sono uguali. Ma il punto è questo: il farmaco era lo stesso. È cambiato il modo di usarlo.
 

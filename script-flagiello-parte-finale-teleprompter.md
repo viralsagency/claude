@@ -1,34 +1,51 @@
-# Script "Farmaci anti-obesità" — parte finale, versione corta (~4 min)
+# Script "Farmaci anti-obesità" — parte finale, versione parlata (~5 min)
 
-Riprende subito dopo l'ultima frase registrata:
-"...altrimenti rischi solo di perdere massa magra e avere più effetti collaterali."
+## PONTE — ultima frase da ri-registrare (sostituisce la chiusura del punto 9)
+
+Ma attenzione. Il farmaco, da solo, non risolve il problema. È uno strumento potentissimo, ma solo se accanto a te c'è un medico che ti segue in un percorso. Perché se lo fai da solo, rischi tre cose. Uno: più effetti collaterali. Due: riprendere tutti i chili. Tre, e questa è quella che nessuno ti dice: perdere muscolo. E partiamo proprio da qui.
 
 ---
 
-E partiamo proprio da qui: dal muscolo.
+## MUSCOLO
 
-Quando dimagrisci in fretta, non perdi solo grasso. Negli studi, tra il 25 e il 40 per cento dei chili persi è muscolo: su 20 chili, fino a 8. E il muscolo è il motore del tuo metabolismo, brucia calorie anche mentre dormi. Se lo perdi, il motore rallenta: sulla bilancia sembra una vittoria, nel corpo è il prossimo gradino del dente di sega. Lo vedo ogni settimana: persone dimagrite da sole, che salgono una rampa di scale e restano senza fiato.
+Quando dimagrisci in fretta, non perdi solo grasso. Perdi anche muscolo. E non poco: negli studi, tra il 25 e il 40 per cento del peso che perdi è muscolo. Cioè, se perdi 20 chili, fino a 8 possono essere muscolo.
 
-Evitarlo si può: proteine giuste, allenamento di forza, e qualcuno che misuri cosa stai perdendo davvero — grasso o muscolo. La penna comprata online questo non lo fa.
+E perché è un problema? Perché il muscolo è il motore del tuo metabolismo. È quello che ti fa bruciare calorie anche quando stai fermo, anche mentre dormi. Se perdi muscolo, il motore rallenta. E con il motore lento, riprendere i chili diventa facilissimo.
 
-E adesso torniamo alla domanda dell'inizio: «quando smetto, riprendo tutto?»
+Io lo vedo ogni settimana nel mio studio. Persone che hanno perso 15, 20 chili da sole, con la penna. Sulla bilancia sembra una vittoria. Ma salgono una rampa di scale e sono senza fiato. Hanno perso i chili, e hanno perso la forza. E da lì, il dente di sega riparte.
 
-Risposta onesta: se smetti da un giorno all'altro, da solo, senza aver cambiato niente — sì. Negli studi, un anno dopo la sospensione si riprendono in media due terzi del peso perso. Anche continuando dieta e movimento.
+Si può evitare? Sì. Ma servono tre cose. Le proteine giuste, ogni giorno. Un po' di allenamento di forza. E qualcuno che, a ogni controllo, misuri cosa stai perdendo davvero: grasso o muscolo. La penna comprata online questo non lo fa. Un percorso medico sì.
 
-Ma questo dato ti dice una cosa precisa: l'obesità è una malattia cronica. E una malattia cronica non si «finisce», si gestisce. Nessuno smette da solo la terapia per la pressione perché «adesso sto bene». Se, quando e come smettere — di colpo, a scalare, con o senza altri strumenti — sono decisioni mediche. Non una prova di carattere.
+## LA RISPOSTA
 
-Quindi la domanda giusta è un'altra: cosa costruisci nei mesi in cui il farmaco lavora per te, e chi c'è accanto a te quando la fame torna.
+E adesso torniamo alla domanda dell'inizio. «Dottore, quando smetto il farmaco, riprendo tutti i chili?»
 
-Chi non cambia niente — tanto ci pensa la penna — quando smette ritrova le stesse abitudini, meno muscolo e nessuno a cui chiedere: un gradino più in alto. Chi invece usa quei mesi per imparare a mangiare, proteggere il muscolo, ed è seguito da un medico e un nutrizionista, quando la fame torna è una persona diversa — e ha qualcuno pronto a intervenire prima che i chili tornino tutti. È per questo che ho studiato la terapia combinata, palloncino e farmaci insieme: più strumenti vuol dire proteggere il risultato anche quando il farmaco si riduce.
+Ti ho promesso una risposta onesta, ed eccola. Se smetti da un giorno all'altro, da solo, senza aver cambiato niente: sì. Negli studi, un anno dopo aver smesso, in media si riprendono due terzi del peso perso. E succede anche a chi continua a fare la dieta e a muoversi.
 
-Il farmaco non è la cura. È la finestra in cui la fame smette di urlare e tu puoi costruire qualcosa di nuovo. La differenza non la fa la penna: la fa il non essere soli.
+Lo so, non è un bel dato. Ma ti dice una cosa importante: l'obesità è una malattia cronica. E una malattia cronica non si finisce. Si gestisce. Pensa alla pressione alta. Nessuno smette da solo la pillola per la pressione perché "oggi mi sento bene". Con l'obesità è uguale. Se smettere, quando smettere e come smettere sono decisioni che si prendono insieme al medico. Non è una prova di carattere.
 
-«Sì dottore, ma costano.» È vero: oggi per l'obesità non li passa il Servizio Sanitario. Ma l'obesità la stai già pagando. In banca: farmaci per pressione, colesterolo, diabete, visite, esami. Nel corpo: il fiato corto, le ginocchia, il sonno che non riposa. E nel tempo: un'obesità grave può costare fino a dieci anni di vita. È un conto che arriva a rate, piccole e silenziose — per questo rimandare ti sembra gratis. Non lo è. E la penna online non è un risparmio: è il modo più caro di tutti. Paghi, perdi muscolo, riprendi i chili.
+Quindi la domanda giusta non è "riprendo i chili?". La domanda giusta è: "cosa faccio nei mesi in cui il farmaco lavora per me? E chi c'è accanto a me quando la fame torna?"
 
-Questi farmaci sono un'arma potentissima. Ma la differenza la fa il percorso. E un percorso inizia con una visita — anche perché non sono per tutti: non in gravidanza, e con cautela in certe malattie del pancreas o della tiroide.
+Ti faccio due esempi. Il primo: una persona prende il farmaco, la fame sparisce, e non cambia niente. Tanto ci pensa la penna. Poi smette. La fame torna, e trova le stesse abitudini di prima, meno muscolo di prima, e nessuno a cui chiedere. Risultato: un gradino più in alto sul dente di sega.
 
-Quindi, se ti sei riconosciuto, il primo passo è semplice: prenota una prima visita, il link è in descrizione. Guardiamo la tua storia e i tuoi esami, e ti dico onestamente qual è la strada giusta per te — farmaco, palloncino, terapia combinata, o nessuna di queste.
+Il secondo: una persona usa quei mesi, quelli in cui la fame finalmente tace, per imparare a mangiare e per proteggere il muscolo. Ed è seguita da un medico e da un nutrizionista. Quando la fame torna, trova una persona diversa. E se serve, c'è qualcuno pronto a intervenire prima che i chili tornino tutti. È per questo che ho studiato la terapia combinata, palloncino e farmaci insieme: più strumenti hai, più modi hai per proteggere il risultato.
 
-La tua non è mai stata pigrizia. È una malattia. E le malattie non si affrontano da soli: si curano. Con un medico, un metodo, e le persone giuste accanto.
+Il farmaco non è la cura. È la finestra di tempo in cui la fame smette di urlare, e tu puoi costruire qualcosa di nuovo. La differenza non la fa la penna. La fa il non essere soli.
+
+## IL PREZZO
+
+E adesso l'obiezione che sento ogni settimana. «Dottore, ho capito. Ma questi farmaci costano.»
+
+È vero. Oggi, per l'obesità, non li passa il Servizio Sanitario. Li paghi tu. Ma fai questo conto con me. Perché l'obesità la stai già pagando. La paghi in banca: i farmaci per la pressione, per il colesterolo, per il diabete, le visite, gli esami. La paghi nel corpo: il fiato corto, le ginocchia, il sonno che non ti riposa. E la paghi in tempo: un'obesità grave può costare fino a dieci anni di vita. Dieci anni.
+
+Solo che questo conto non arriva tutto insieme. Arriva a rate. Piccole, silenziose. Per questo rimandare ti sembra gratis. Ma non lo è. E la penna comprata online non è un risparmio. È il modo più caro di tutti: paghi il farmaco, perdi il muscolo, e riprendi i chili.
+
+## CHIUSURA
+
+Questi farmaci sono una delle armi più potenti che la medicina abbia mai avuto contro l'obesità. Ma la differenza non la fa la molecola. La fa il percorso. E un percorso inizia sempre con una visita. Anche perché questi farmaci non sono per tutti: non si usano in gravidanza, e vanno valutati con attenzione se hai avuto una pancreatite, o certi tumori rari della tiroide.
+
+Quindi, se in questo video ti sei riconosciuto, il primo passo è semplice. Prenota una prima visita: il link è qui sotto, in descrizione. Guardiamo insieme la tua storia e i tuoi esami, e ti dico onestamente qual è la strada giusta per te. Il farmaco, il palloncino, la terapia combinata. O nessuna di queste.
+
+La tua non è mai stata pigrizia. È una malattia. E le malattie non si affrontano da soli. Si curano. Con un medico, con un metodo, e con le persone giuste accanto.
 
 Ti aspetto.

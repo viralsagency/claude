@@ -4,13 +4,13 @@
 
 Ma attenzione. Il farmaco, da solo, non risolve il problema. È uno strumento potentissimo, ma solo se accanto a te c'è un medico che ti segue in un percorso.
 
-Perché se lo fai per conto tuo, rischi tre cose. Uno: più effetti collaterali. Due: riprendere tutti i chili che hai perso. E tre: perdere muscolo.
+Perché se lo fai per conto tuo, rischi tre cose. Uno: più effetti collaterali. Due: riprendere tutti i chili che hai perso. E tre: perdere muscolo. Che è la cosa che devi assolutamente proteggere.
 
 ---
 
 ## MUSCOLO
 
-Perché quando dimagrisci in fretta, non perdi solo grasso. Negli studi, fino al 40 per cento del peso perso è massa magra, cioè in gran parte muscolo. E attenzione: succede anche a chi è seguito. La differenza è che in un percorso qualcuno se ne accorge e corregge. Per conto tuo, no.
+Perché quando dimagrisci in fretta, non perdi solo grasso. Negli studi, fino al 40 per cento del peso perso è massa magra, cioè in gran parte muscolo. E la cosa che nessuno ti dice è che succede anche a chi è seguito. La differenza è che in un percorso qualcuno se ne accorge e corregge. Per conto tuo, no.
 
 E il muscolo è il motore del tuo metabolismo. È quello che ti fa bruciare calorie anche quando non fai niente, anche mentre dormi. Se perdi muscolo, il motore rallenta. E con il motore lento, riprendere i chili diventa facilissimo.
 

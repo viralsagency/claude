@@ -18,6 +18,10 @@ Io lo vedo ogni settimana. Arrivano da me persone che hanno perso 15, 20 chili c
 
 Si può proteggere il muscolo? Sì. Ma il farmaco va preso dentro un percorso medico controllato. Che vuol dire: le proteine giuste, un po' di allenamento di forza, e qualcuno che a ogni controllo misura cosa stai perdendo davvero, grasso o muscolo. La penna comprata online questo non lo fa.
 
+Ti faccio un esempio. Monica è arrivata da me che prendeva già il farmaco, a una dose alta. Risultato: 7 chili persi, e stava male per gli effetti collaterali. Abbiamo costruito un percorso su misura per lei. E la dose l'abbiamo abbassata: meno della metà di quella che le avevano dato. Con meno farmaco, ha perso altri 15 chili. Senza più effetti collaterali.
+
+Non tutti i casi sono uguali. Ma il punto è questo: il farmaco era lo stesso. È cambiato il modo di usarlo.
+
 ## LA RISPOSTA
 
 E adesso torniamo alla domanda dell'inizio. «Dottore, quando smetto il farmaco, riprendo tutti i chili?»

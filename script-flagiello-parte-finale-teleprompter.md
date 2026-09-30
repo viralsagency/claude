@@ -12,7 +12,7 @@ Quando dimagrisci in fretta, non perdi solo grasso. Perdi anche muscolo. E non p
 
 E perché è un problema? Perché il muscolo è il motore del tuo metabolismo. È quello che ti fa bruciare calorie anche quando stai fermo, anche mentre dormi. Se perdi muscolo, il motore rallenta. E con il motore lento, riprendere i chili diventa facilissimo.
 
-Io lo vedo ogni settimana nel mio studio. Persone che hanno perso 15, 20 chili per conto loro, con la penna. Sulla bilancia sembra una vittoria. Ma salgono una rampa di scale e sono senza fiato. Hanno perso i chili, e hanno perso la forza. E da lì, il dente di sega riparte.
+Io lo vedo ogni settimana nel mio studio. Persone che hanno perso 15, 20 chili da sole, con la penna. Sulla bilancia sembra una vittoria. Ma salgono una rampa di scale e sono senza fiato. Hanno perso i chili, e hanno perso la forza. E da lì, il dente di sega riparte.
 
 Si può evitare? Sì. Ma servono tre cose. Le proteine giuste, ogni giorno. Un po' di allenamento di forza. E qualcuno che, a ogni controllo, misuri cosa stai perdendo davvero: grasso o muscolo. La penna comprata online questo non lo fa. Un percorso medico sì.
 
@@ -30,7 +30,7 @@ Ti faccio due esempi. Il primo: una persona prende il farmaco, la fame sparisce,
 
 Il secondo: una persona usa quei mesi, quelli in cui la fame finalmente tace, per imparare a mangiare e per proteggere il muscolo. Ed è seguita da un medico e da un nutrizionista. Quando la fame torna, trova una persona diversa. E se serve, c'è qualcuno pronto a intervenire prima che i chili tornino tutti. È per questo che ho studiato la terapia combinata, palloncino e farmaci insieme: più strumenti hai, più modi hai per proteggere il risultato.
 
-Il farmaco non è la cura. È la finestra di tempo in cui la fame smette di urlare, e tu puoi costruire qualcosa di nuovo. La differenza non la fa la penna. La fa chi hai accanto.
+Il farmaco non è la cura. È la finestra di tempo in cui la fame smette di urlare, e tu puoi costruire qualcosa di nuovo. La differenza non la fa la penna. La fa il non essere soli.
 
 ## IL PREZZO
 
@@ -46,6 +46,6 @@ Questi farmaci sono una delle armi più potenti che la medicina abbia mai avuto 
 
 Quindi, se questo video parla anche di te, il primo passo è semplice. Prenota una prima visita: il link è qui sotto, in descrizione. Guardiamo insieme la tua storia e i tuoi esami, e ti dico onestamente qual è la strada giusta per te. Il farmaco, il palloncino, la terapia combinata. O nessuna di queste.
 
-La tua non è mai stata pigrizia. È una malattia. E una malattia non si affronta per conto proprio. Si cura. Con un medico, con un metodo, e con le persone giuste accanto.
+La tua non è mai stata pigrizia. È una malattia. E le malattie non si affrontano da soli. Si curano. Con un medico, con un metodo, e con le persone giuste accanto.
 
 Ti aspetto.

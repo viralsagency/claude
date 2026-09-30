@@ -10,7 +10,7 @@ Perché se lo fai per conto tuo, rischi tre cose. Uno: più effetti collaterali.
 
 ## MUSCOLO
 
-Perché quando dimagrisci in fretta, non perdi solo grasso. Negli studi, fino al 40 per cento del peso perso è massa magra, cioè in gran parte muscolo. E la cosa che nessuno ti dice è che succede anche a chi è seguito. La differenza è che in un percorso qualcuno se ne accorge e corregge. Per conto tuo, no.
+Quando dimagrisci in fretta, infatti, non perdi solo grasso. Negli studi, fino al 40 per cento del peso perso è massa magra, cioè in gran parte muscolo. E la cosa che nessuno ti dice è che succede anche a chi è seguito. La differenza è che in un percorso qualcuno se ne accorge e corregge. Per conto tuo, no.
 
 E il muscolo è il motore del tuo metabolismo. È quello che ti fa bruciare calorie anche quando non fai niente, anche mentre dormi. Se perdi muscolo, il motore rallenta. E con il motore lento, riprendere i chili diventa facilissimo.
 

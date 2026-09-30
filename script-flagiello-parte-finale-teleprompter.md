@@ -26,19 +26,27 @@ Non tutti i casi sono uguali. Ma il punto è questo: il farmaco era lo stesso. �
 
 ## LA RISPOSTA
 
-E allora torniamo alla prima domanda. «Dottore… ma quando smetto di assumere il farmaco, riprendo tutti i chili che ho perso?»
+E allora torniamo alla prima domanda di questo video. «Dottore… ma quando smetto di assumere il farmaco, riprendo tutti i chili che ho perso?»
 
-La risposta è: sì. Soprattutto se smetti da un giorno all'altro, per conto tuo, senza aver cambiato niente. Negli studi, un anno dopo aver smesso, in media si riprendono due terzi del peso perso. E succede anche a chi continua a fare la dieta e a muoversi.
+La risposta è: sì. Soprattutto se smetti da un giorno all'altro, per conto tuo, senza aver cambiato niente. Gli studi scientifici dimostrano che un anno dopo aver smesso, in media, si riprendono due terzi del peso perso. E succede anche a chi continua a fare la dieta e a muoversi.
 
-Lo so, non è un bel dato. Ma ti dice una cosa importante: l'obesità è una malattia cronica. E una malattia cronica non si finisce. Si gestisce.
+Lo so, non è un bel dato. Ma ti dice una cosa importante: l'obesità è una malattia cronica.
 
-Pensa alla pressione alta. Nessuno smette la pillola per la pressione per conto suo perché "oggi mi sento bene". Con l'obesità è la stessa cosa. Se smettere, quando smettere e come smettere sono decisioni che si prendono insieme al medico. Non da soli.
+E una malattia cronica non si finisce. Si gestisce.
 
-Quindi la domanda giusta non è "riprendo i chili?". La domanda giusta è: "cosa faccio nei mesi in cui il farmaco lavora per me? E chi c'è accanto a me quando la fame torna?"
+Pensa alla pressione alta. Nessuno smette di prendere la pillola per conto suo pensando: "oggi mi sento bene, quindi non la prendo". Con l'obesità è la stessa cosa.
 
-Ci sono due tipi di persone. La prima prende il farmaco, la fame sparisce, e non cambia niente. Tanto ci pensa la penna. Poi smette. La fame torna, e trova le stesse abitudini di prima, meno muscolo di prima, e nessuno a cui chiedere. Risultato: un gradino più in alto sul dente di sega.
+Se smettere, quando smettere e come smettere sono decisioni che si prendono insieme al medico. Mai da soli.
 
-La seconda usa quei mesi, quelli in cui la fame finalmente non c'è, per imparare a mangiare e per proteggere il muscolo. Ed è seguita da un medico e da un nutrizionista. Quando la fame torna, trova una persona diversa. E se serve, c'è qualcuno pronto a intervenire prima che i chili tornino tutti: con la dose, con il palloncino, con la terapia combinata.
+Quindi la domanda giusta non è "riprenderò i chili?". La domanda giusta è: cosa puoi fare nei mesi in cui il farmaco ti toglie la fame?
+
+Perché quei mesi sono un'occasione che non hai mai avuto. Per la prima volta ti siedi a tavola e non devi combattere. Non pensi al cibo tutto il giorno. Hai la testa libera.
+
+E lì hai due strade.
+
+La prima: non cambi niente. Mangi meno solo perché non hai fame, e basta. Tanto ci pensa la penna. Ma il giorno che smetti, la fame torna. E trova tutto com'era: le stesse abitudini, meno muscolo di prima, e nessuno a cui chiedere cosa fare. Un gradino più in alto sul dente di sega.
+
+La seconda: usi quei mesi per cambiare, adesso che è più facile. Impari a mangiare senza la fame che ti spinge. Proteggi il muscolo. E hai accanto un medico e un nutrizionista che ti seguono. Anche in questo caso, prima o poi, la fame torna. Ma trova una persona diversa. E trova un medico pronto a intervenire prima che i chili tornino tutti: con la dose, con il palloncino, con la terapia combinata.
 
 Il farmaco non è la cura. È la finestra di tempo in cui la fame smette di urlare, e tu puoi costruire qualcosa di nuovo. La differenza non la fa la penna. La fa il non essere soli.
 

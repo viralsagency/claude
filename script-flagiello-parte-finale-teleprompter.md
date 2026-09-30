@@ -26,31 +26,37 @@ Non tutti i casi sono uguali. Ma il punto è questo: il farmaco era lo stesso. �
 
 ## LA RISPOSTA
 
-E adesso torniamo alla domanda dell'inizio. «Dottore, quando smetto il farmaco, riprendo tutti i chili?»
+E allora torniamo alla prima domanda. «Dottore… ma quando smetto di assumere il farmaco, riprendo tutti i chili che ho perso?»
 
-Ti ho promesso una risposta onesta, ed eccola. Se smetti da un giorno all'altro, per conto tuo, senza aver cambiato niente: sì. Negli studi, un anno dopo aver smesso, in media si riprendono due terzi del peso perso. E succede anche a chi continua a fare la dieta e a muoversi.
+La risposta è: sì. Soprattutto se smetti da un giorno all'altro, per conto tuo, senza aver cambiato niente. Negli studi, un anno dopo aver smesso, in media si riprendono due terzi del peso perso. E succede anche a chi continua a fare la dieta e a muoversi.
 
-Lo so, non è un bel dato. Ma ti dice una cosa importante: l'obesità è una malattia cronica. E una malattia cronica non si finisce. Si gestisce. Pensa alla pressione alta. Nessuno smette la pillola per la pressione per conto suo perché "oggi mi sento bene". Con l'obesità è uguale. Se smettere, quando smettere e come smettere sono decisioni che si prendono insieme al medico. Non è una prova di carattere.
+Lo so, non è un bel dato. Ma ti dice una cosa importante: l'obesità è una malattia cronica. E una malattia cronica non si finisce. Si gestisce.
+
+Pensa alla pressione alta. Nessuno smette la pillola per la pressione per conto suo perché "oggi mi sento bene". Con l'obesità è la stessa cosa. Se smettere, quando smettere e come smettere sono decisioni che si prendono insieme al medico. Non da soli.
 
 Quindi la domanda giusta non è "riprendo i chili?". La domanda giusta è: "cosa faccio nei mesi in cui il farmaco lavora per me? E chi c'è accanto a me quando la fame torna?"
 
-Ti faccio due esempi. Il primo: una persona prende il farmaco, la fame sparisce, e non cambia niente. Tanto ci pensa la penna. Poi smette. La fame torna, e trova le stesse abitudini di prima, meno muscolo di prima, e nessuno a cui chiedere. Risultato: un gradino più in alto sul dente di sega.
+Ci sono due tipi di persone. La prima prende il farmaco, la fame sparisce, e non cambia niente. Tanto ci pensa la penna. Poi smette. La fame torna, e trova le stesse abitudini di prima, meno muscolo di prima, e nessuno a cui chiedere. Risultato: un gradino più in alto sul dente di sega.
 
-Il secondo: una persona usa quei mesi, quelli in cui la fame finalmente tace, per imparare a mangiare e per proteggere il muscolo. Ed è seguita da un medico e da un nutrizionista. Quando la fame torna, trova una persona diversa. E se serve, c'è qualcuno pronto a intervenire prima che i chili tornino tutti. È per questo che ho studiato la terapia combinata, palloncino e farmaci insieme: più strumenti hai, più modi hai per proteggere il risultato.
+La seconda usa quei mesi, quelli in cui la fame finalmente non c'è, per imparare a mangiare e per proteggere il muscolo. Ed è seguita da un medico e da un nutrizionista. Quando la fame torna, trova una persona diversa. E se serve, c'è qualcuno pronto a intervenire prima che i chili tornino tutti: con la dose, con il palloncino, con la terapia combinata.
 
 Il farmaco non è la cura. È la finestra di tempo in cui la fame smette di urlare, e tu puoi costruire qualcosa di nuovo. La differenza non la fa la penna. La fa il non essere soli.
 
 ## IL PREZZO
 
-E adesso l'obiezione che sento ogni settimana. «Dottore, ho capito. Ma questi farmaci costano.»
+«Sì, dottore, ho capito. Ma questi farmaci costano.»
 
-È vero. Oggi, per l'obesità, non li passa il Servizio Sanitario. Li paghi tu. Ma fai questo conto con me. Perché l'obesità la stai già pagando. La paghi in banca: i farmaci per la pressione, per il colesterolo, per il diabete, le visite, gli esami. La paghi nel corpo: il fiato corto, le ginocchia, il sonno che non ti riposa. E la paghi in tempo: un'obesità grave può costare fino a dieci anni di vita. Dieci anni.
+È vero. Ma lo conosci il prezzo dell'obesità?
 
-Solo che questo conto non arriva tutto insieme. Arriva a rate. Piccole, silenziose. Per questo rimandare ti sembra gratis. Ma non lo è. E la penna comprata online non è un risparmio. È il modo più caro di tutti: paghi il farmaco, perdi il muscolo, e riprendi i chili.
+La paghi in banca: i farmaci per la pressione, per il colesterolo, per il diabete, le visite, gli esami. La paghi nel corpo: il fiato corto, la schiena e le gambe che fanno male, le apnee mentre dormi. E la paghi in anni di vita: un'obesità grave può costarne fino a dieci.
+
+Solo che questo conto non arriva tutto insieme. Arriva a rate. Piccole, silenziose. Per questo rimandare ti sembra gratis. Ma non lo è.
 
 ## CHIUSURA
 
-Questi farmaci sono una delle armi più potenti che la medicina abbia mai avuto contro l'obesità. Ma la differenza non la fa la molecola. La fa il percorso. E un percorso inizia sempre con una visita. Anche perché questi farmaci non sono per tutti: non si usano in gravidanza, e vanno valutati con attenzione se hai avuto una pancreatite, o certi tumori rari della tiroide.
+Questi farmaci sono una delle armi più potenti che la medicina abbia mai avuto contro l'obesità. Ma la differenza non la fa la molecola. La fa il percorso.
+
+E un percorso inizia sempre con una visita medica. Anche perché questi farmaci non sono per tutti: non in gravidanza, e con attenzione se hai avuto una pancreatite o certi tumori rari della tiroide.
 
 Quindi, se questo video parla anche di te, il primo passo è semplice. Prenota una prima visita: il link è qui sotto, in descrizione. Guardiamo insieme la tua storia e i tuoi esami, e ti dico onestamente qual è la strada giusta per te. Il farmaco, il palloncino, la terapia combinata. O nessuna di queste.
 
